@@ -1,5 +1,7 @@
 # python-deveops-practice
 
+[![Python application test with Github Actions](https://github.com/abdullahmoosa/python-deveops-practice/actions/workflows/deveops.yml/badge.svg)](https://github.com/abdullahmoosa/python-deveops-practice/actions/workflows/deveops.yml)
+
 
 1. Create a Virtual Environment 'python3 - m venv ~/.venv' or 'virtualenv ~/.venv'
 2. src the virtual environment inside bash so that each time new terminal is opened the virtual environment is activated.
