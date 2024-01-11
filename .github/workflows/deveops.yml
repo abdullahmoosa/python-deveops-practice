@@ -20,4 +20,4 @@ jobs:
         make test
     - name: Format code
       run: |
-        # Adjust formatting command for Windows (e.g., black your_module.py)
+        make format
