@@ -12,3 +12,4 @@ black - for code formatting
 6. In requirements.txt you should only specify the modules you need and their version numbers. Other internal modules will be downloaded by python when satisfying the criteria mentioned.
 7. Using lint is better because, link rates your code. So, that you can understand if you are following good code conventions and it will protect you from future bugs
 8. Build cli using python fire library './cli-fire,py --help' to test logic
+9. CLI is useful for testing out written functions without necessarily writing code for each of them
