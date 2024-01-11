@@ -10,3 +10,4 @@
 5. pylint - for better coding practice,
 black - for code formatting
 6. In requirements.txt you should only specify the modules you need and their version numbers. Other internal modules will be downloaded by python when satisfying the criteria mentioned.
+7. Using lint is better because, link rates your code. So, that you can understand if you are following good code conventions and it will protect you from future bugs
