@@ -17,7 +17,7 @@ jobs:
         make lint
     - name: Test with pytest
       run: |
-        # Adjust test command for Windows (e.g., pytest tests/)
+        make test
     - name: Format code
       run: |
         # Adjust formatting command for Windows (e.g., black your_module.py)
